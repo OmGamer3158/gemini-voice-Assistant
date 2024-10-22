@@ -1,4 +1,6 @@
+for windows:-
 pip install sounddevice vosk pyttsx3 SpeechRecognition google-generativeai faster-whisper
 
+:- Linux 
 sudo apt update
 sudo apt install ffmpeg
