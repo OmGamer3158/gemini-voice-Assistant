@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @OmGamer3158
+# - 👋 Hi, I’m @OmGamer3158
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Computer Engg.
 - 💞️ I’m looking to collaborate on ...
