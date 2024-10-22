@@ -1,4 +1,4 @@
-# gimini-voice-ass
+# gemini-voice-ass
 it is gimini ass in local with wifi
 installion steps:-
 make sure you installed python 3.x Version and have good nerwork.
