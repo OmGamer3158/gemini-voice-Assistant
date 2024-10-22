@@ -5,7 +5,7 @@
 - 📫 How to reach me ,just say Hi.
 
 # gemini voice assistant
-It is gimini ass in local with wifi <br><br>
+It is gimini assistant in local with wifi <br><br>
 Installion steps:-<br><br>
 Make sure you installed python 3.x Version and have good nerwork.<br><br>
 Step 1:- download zip file from release (link:- https://github.com/OmGamer3158/gemini-voice-Assistant/releases/tag/gemini)<br><br>
