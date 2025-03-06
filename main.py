@@ -36,7 +36,7 @@ wake_word = "hey"
 listen_for_wake_words = True
 
 # Google Generative AI setup
-GOOGLE_API_KEY = 'AIzaSyCekqioZkfLwFyv9zv87uZ12WEGEFEJjKc'
+GOOGLE_API_KEY = 'your api'
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.0-pro-latest')
 convo = model.start_chat()
